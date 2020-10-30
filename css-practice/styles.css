@@ -1,0 +1,35 @@
+img {
+    width: 400px;border:dashed;
+}
+h1{
+   color:orange;
+}
+body{
+    text-align: center;
+}
+body{
+    background-color:pink;
+}
+h1{
+    color:red; font-size:100px;text-align:center;background-color:white;
+}
+h2{
+    background-color:blue;color:white;
+}
+img{
+    height:200px; width:600px; border:solid purple 10px; padding:30px;
+}
+p{
+    color: red;
+}
+img {
+    height: 300px;
+}
+h1{
+    font-family:fantasy; text-align:center;color:orange;
+}
+p{
+    font-family:cursive;color:pink;
+}
+body{background-color:green;border:solid black 4px;padding:25px; 
+}

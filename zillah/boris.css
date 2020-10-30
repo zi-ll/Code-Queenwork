@@ -1,0 +1,15 @@
+h1{
+    font-family: 'Lobster', cursive; color: green;
+}
+body{
+    background-color: aliceblue; 
+}
+body>div{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    background-color:white;
+}
+h2,h3,h4{
+    color:green;
+}
